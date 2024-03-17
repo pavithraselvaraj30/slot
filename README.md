@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:17-03-2024
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,9 +24,123 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
+<html>
+    <head>
+        <title>SLOT TIMETABLE</title>
+    </head>
+    <body>
+        <center>
+        <img src="logo.png" width="550" height="50">
+        </center>
+        <br>
+        <table align="center" border="2" cellspacing="5" cellpadding="5" width="40" height="50" bgcolor="lightblue">
+        <tr>
+            <th bgcolor="grey">DAY/TIME</th>
+            <th bgcolor="grey">8-10</th>
+            <th bgcolor="grey">10-12</th>
+            <th bgcolor="grey">12-1</th>
+            <th bgcolor="grey">1-3</th>
+            <th bgcolor="grey">3-5</th>
+        </tr>
+        <tr>
+            <td bgcolor="grey">Monday</td>
+            <td>Free slot</td>
+            <td>Free slot</td>
+            <td>Lunch</td>
+            <td>BEEE</td>
+            <td> C programming</td>
+        </tr>
+        <tr>
+            <td bgcolor="grey">Tuesday</td>
+            <td>Free slot</td>
+            <td>Python and linear algebra</td>
+            <td>Lunch</td>
+            <td>Fundamentals of web application</td>
+            <td>Free slot</td>
+         </tr>
+         <tr>
+            <td bgcolor="grey">Wednesday</td>
+            <td>Chemistry</td>
+            <td>BEEE</td>
+            <td>Lunch</td>
+            <td>English</td>
+            <td>Python and linear algebra</td>
+        </tr>
+        <tr>
+            <td bgcolor="grey">Thursday</td>
+            <td>Free slot</td>
+            <td>Free slot</td>
+            <td>Lunch</td>
+            <td>Fundamentals of web application</td>
+            <td>Free slot</td>
+        </tr>
+        <tr>
+            <td bgcolor="grey">Friday</td>
+            <td>Fundamentals of web application</td>
+            <td> C programming</td>
+            <td>Lunch</td>
+            <td>Python and linear algebra</td>
+            <td>English</td>
+        </tr>
+        <tr>
+            <td bgcolor="grey">Saturday</td>
+            <td>Python and linear algebra</td>
+            <td>Chemistry</td>
+            <td>Lunch</td>
+            <td>Free slot</td>
+            <td>Free slot</td>
+        </tr>
+        </table>
+        <br>
+        <table align="center" cellspacing="2" cellpadding="4" border="2" bgcolor="grey">
+            <tr align="center">
+            <th bgcolor="lightblue">S. No.</th>
+            <th bgcolor="lightblue">Subject Code</th>
+            <th bgcolor="lightblue">Subject Name</th>
+            </tr>
+            <tr>
+            <td align="center" bgcolor="lightblue">1.</td>
+            <td align="center" bgcolor="grey">19AI414</td>
+            <td>Fundamentals of Web Application Development (FWAD)</td>
+            </tr>
+            <tr>
+            <td align="center" bgcolor="lightblue">2.</td>
+            <td align="center" bgcolor="grey">19AI304</td>
+            <td>FUNDAMENTALS OF C PROGRAMMING(C PROGRAM)</td>
+            </tr>
+            <tr>
+            <td align="center" bgcolor="lightblue">3.</td>
+            <td align="center" bgcolor="grey">19Ai301C</td>
+            <td>Python and linear algebra</td>
+            </tr>
+            <tr>
+            <td align="center" bgcolor="lightblue">4.</td>
+            <td align="center" bgcolor="grey">19CY205</td>
+            <td>Principles of Chemistry in Engineering (CHE)</td>
+            </tr>
+            <tr>
+            <td align="center" bgcolor="lightblue">5.</td>
+            <td align="center" bgcolor="grey">19EN101</td>
+            <td> English </td>
+            </tr>
+            <tr>
+            <td align="center" bgcolor="lightblue">6.</td>
+            <td align="center" bgcolor="grey">19EE305</td>
+            <td>BEEE</td>
+            </tr>
+        </table>
+       </body>
+    </html>
+
+    
+```
 
 
 ## OUTPUT
+![t1](https://github.com/pavithraselvaraj30/slot/assets/149366880/5a55db3d-7e08-4c6f-a7c8-e7a67a448f87)
+![t2](https://github.com/pavithraselvaraj30/slot/assets/149366880/5b639e51-447c-4bbb-871d-02615e3b9492)
+
 
 
 ## RESULT
