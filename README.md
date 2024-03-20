@@ -35,6 +35,7 @@ Execute the program using runserver command.
         </center>
         <br>
         <table align="center" border="2" cellspacing="5" cellpadding="5" width="40" height="50" bgcolor="lightblue">
+        <caption> <b> SLOT TIME TABLE-PAVITHRA (212223230147) </b></caption>
         <tr>
             <th bgcolor="grey">DAY/TIME</th>
             <th bgcolor="grey">8-10</th>
@@ -138,8 +139,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![t1](https://github.com/pavithraselvaraj30/slot/assets/149366880/5a55db3d-7e08-4c6f-a7c8-e7a67a448f87)
-![t2](https://github.com/pavithraselvaraj30/slot/assets/149366880/5b639e51-447c-4bbb-871d-02615e3b9492)
+![Screenshot (1)](https://github.com/pavithraselvaraj30/slot/assets/149366880/51cd44a2-21e9-4fa6-921d-f03798394378)
+![Screenshot (2)](https://github.com/pavithraselvaraj30/slot/assets/149366880/7cec3d3e-9175-4b9e-8e8a-bf9080c5c125)
 
 
 
